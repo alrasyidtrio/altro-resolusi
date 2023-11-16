@@ -2,3 +2,4 @@ altro resolusi
 - Konsisten untuk membuat konten sebanyak 2x seminggu
 - Membuat platform untuk pengelolaan video
 - Membuat forum diskusi
+- Memahami cara kerja dari project management
